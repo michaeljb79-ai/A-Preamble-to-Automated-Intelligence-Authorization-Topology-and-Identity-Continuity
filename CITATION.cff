@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the relevant Zenodo record(s) below."
+type: dataset
+title: "Automated Intelligence — Research Publication Series"
+authors:
+  - family-names: "Barnes"
+    given-names: "Michael"
+abstract: "A four-segment research publication series on AI architecture, comprising one orientation paper (Preamble) and three architectural contributions (Automated Intelligence, Authorization Topology, Identity Continuity). Each contribution publishes as an A/B pair — an accessible Explanatory Companion and a formal Definition."
+url: "https://github.com/michaeljb79-ai/A-Preamble-to-Automated-Intelligence-Authorization-Topology-and-Identity-Continuity"
+license: "CC-BY-NC-4.0"
+references:
+  - type: article
+    title: "A Preamble to Automated Intelligence, Authorization Topology, and Identity Continuity"
+    authors:
+      - family-names: "Barnes"
+        given-names: "Michael"
+    year: 2026
+    doi: "10.5281/zenodo.20468026"
+  - type: article
+    title: "Automated Intelligence: Architectural Class Definition and Explanatory Companion"
+    authors:
+      - family-names: "Barnes"
+        given-names: "Michael"
+    year: 2026
+    doi: "10.5281/zenodo.20503401"
+  - type: article
+    title: "Authorization Topology: Architectural Definition and Explanatory Companion"
+    authors:
+      - family-names: "Barnes"
+        given-names: "Michael"
+    year: 2026
+    doi: "10.5281/zenodo.20516509"
+  - type: article
+    title: "Identity Continuity: Architectural Definition and Explanatory Companion"
+    authors:
+      - family-names: "Barnes"
+        given-names: "Michael"
+    year: 2026
+    doi: "10.5281/zenodo.20517663"
